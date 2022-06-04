@@ -87,22 +87,22 @@ Chris Hetherington
 			</div>
 			<div class="content">
 				<div class="inner">
-					<h1>Chris Hetherington</h1>
-					<p>A full stack developer and designer who loves coding and creating amazing and unique projects for
-						myself and my clients. What should we create today?</p>
-					<p><b>Site is still being worked on, pardon my dust</b></p>
-					<p><img src="images/chris-signature.png" alt="Signature"></p>
+					<h1>クリス・ヘザリントン</h1>
+					<p>コーディングと驚くべきユニークなプロジェクトの作成を愛するフルスタックの開発者およびデザイナー
+私自身と私のクライアント。 今日は何を作成する必要がありますか？</p>
+					<p><b>サイトはまだ作業中です、私のほこりを許してください</b></p>
+					<p><img src="images/chris-signature.png" alt="サイン"></p>
 					<br />
-					<h2>View my Resume</h2>
-					<button type="button">Click Here</button>
+					<h2>私の履歴書を見る</h2>
+					<button type="button">ここをクリック</button>
 				</div>
 			</div>
 			<nav>
 				<ul>
-					<li><a href="#intro">Intro</a></li>
-					<li><a href="#work">Work</a></li>
-					<li><a href="#about">About</a></li>
-					<li><a href="#contact">Contact</a></li>
+					<li><a href="#intro">イントロ</a></li>
+					<li><a href="#work">業績</a></li>
+					<li><a href="#about">ついて</a></li>
+					<li><a href="#contact">コンタクト</a></li>
 					<!--<li><a href="./ko/">한국어</a></li>-->
 				</ul>
 			</nav>
@@ -114,19 +114,19 @@ Chris Hetherington
 
 			<!-- Intro -->
 			<article id="intro">
-				<h2 class="major">Intro</h2>
+				<h2 class="major">イントロ</h2>
 				<span class="image main"><img src="images/doge.png" alt="" /></span>
-				<p>I am a web designer and coder with 15 years experience. I have a number of past and current work in
-					my portfolio that is listed here on this site. I am passionate about my work and love collaborating
-					and working with others to make amazing things. By the way, check out my <a href="#work">awesome
-						work here</a>.</p>
-				<p>You can read more about me over <a href="#about">here at this link</a>. I typed it myself so pardon
-					the poor writing and possible spelling mistakes. If you enjoy this lets get a drink! </p>
+				<p>私は15年の経験を持つウェブデザイナー兼コーダーです。 過去と現在の仕事がたくさんあります
+				このサイトにリストされている私のポートフォリオ。 私は自分の仕事に情熱を持っており、コラボレーションが大好きです
+				他の人と協力して素晴らしいものを作ります。 ちなみに、私の<a href = "#work">素晴らしいをチェックしてください
+				ここで作業します</a>。</p>
+				<p>私について詳しくは、<a href = "＃about">こちらのリンク</a>をご覧ください。 自分でタイプしたのでご容赦ください
+				書き方の悪さやつづりの間違いの可能性。 これを楽しんでいるなら、飲み物を手に入れましょう！</p>
 			</article>
 
 			<!-- Work -->
 			<article id="work">
-				<h2 class="major">Work</h2>
+				<h2 class="major">業績</h2>
 				<span class="image main"><img src="images/doge.png" alt="Work Header" /></span>
 				<div class="row0">
 					<div class="item0">
@@ -279,7 +279,7 @@ Chris Hetherington
 
 			<!-- About -->
 			<article id="about">
-				<h2 class="major">About</h2>
+				<h2 class="major">ついて</h2>
 				<span class="image main"><img src="images/about-header.png" alt="About Header" /></span>
 				<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at
 					eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula
@@ -290,25 +290,25 @@ Chris Hetherington
 
 			<!-- Contact -->
 			<article id="contact">
-				<h2 class="major">Contact</h2>
+				<h2 class="major">コンタクト</h2>
 
 				<form id="reset">
 					<div class="fields">
 						<div class="field half">
-							<label for="name">Name</label>
+							<label for="name">名前</label>
 							<input type="text" name="name" id="name" />
 						</div>
 						<div class="field half">
-							<label for="email">Email</label>
+							<label for="email">Eメール</label>
 							<input type="text" name="email" id="email" />
 						</div>
 						<div class="field">
-							<label for="message">Message</label>
+							<label for="message">メッセージ</label>
 							<textarea name="message" id="message" rows="4"></textarea>
 						</div>
 
 						<div class="field half">
-							<label for="email">Attach file</label>
+							<label for="email">ファイルを添付する</label>
 							<input type="file" name="attachment[]" id="file" accept=".pdf,.doc" />
 						</div>
 						<div class="field">
@@ -619,7 +619,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 		<!-- Footer -->
 		<footer id="footer">
-			<p class="copyright">&copy; Chris Hetherington. Coded with 💖 in Texas</p>
+			<p class="copyright">&copy; クリス・ヘザリントン。 テキサスで💖でコード化</p>
 		</footer>
 
 	</div>

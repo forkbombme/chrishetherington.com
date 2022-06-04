@@ -55,22 +55,28 @@ Chris Hetherington
 	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 	<!-- Masonary style effect -->
 	<script src="assets/js/masonry.pkgd.min.js"></script>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CH0TZGP6ME"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-CH0TZGP6ME');
-</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+
+	<!-- LightBox -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js.map"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css"
+		integrity="sha512-Velp0ebMKjcd9RiCoaHhLXkR1sFoCCWXNp6w4zj1hfMifYB5441C+sKeBl/T/Ka6NjBiRfBBQRaQq65ekYz3UQ=="
+		crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"
+		integrity="sha512-Y2IiVZeaBwXG1wSV7f13plqlmFOx8MdjuHyYFVoYzhyRr3nH/NMDjTBSswijzADdNzMyWNetbLMfOpIPl6Cv9g=="
+		crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 
 </head>
 
 <body class="is-preload">
 
-	<!-- Wrapper -->gi
+	<!-- Wrapper -->
 	<div id="wrapper">
+
+
 
 		<!-- Header -->
 		<header id="header">
@@ -118,20 +124,21 @@ Chris Hetherington
 					the poor writing and possible spelling mistakes. If you enjoy this lets get a drink! </p>
 			</article>
 
-
 			<!-- Work -->
 			<article id="work">
 				<h2 class="major">Work</h2>
-
+				<span class="image main"><img src="images/doge.png" alt="Work Header" /></span>
 				<div class="row0">
 					<div class="item0">
-						<div class="well0">
+						<div class="well0" data-toggle="lightbox">
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/230/230/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
@@ -140,9 +147,11 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/150/280/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
@@ -151,9 +160,11 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/230/250/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
@@ -162,9 +173,11 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/180/180/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
@@ -173,9 +186,11 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/180/200/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
@@ -184,9 +199,11 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/150/280/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
@@ -195,9 +212,11 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/280/280/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
@@ -206,9 +225,11 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/150/150/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
@@ -217,9 +238,11 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/150/150/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
@@ -228,9 +251,11 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/300/300/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
@@ -239,18 +264,16 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/150/280/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-								<button type="button" class="button02">Click Here</button>
+								<div class="text00">
+									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+									<button type="button" class="button02">Click Here</button>
 
+								</div>
 							</div>
 						</div>
 					</div>
 
 				</div>
-
-
-				<span class="image main"><img class="img-fluid" src="images/pic02.jpg" alt="alt" /></span>
-				<img style="max-width:100%" src="images/miku.jpg" class="img-fluid" alt="Miku">
 			</article>
 
 
@@ -597,8 +620,6 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<!-- Footer -->
 		<footer id="footer">
 			<p class="copyright">&copy; Chris Hetherington. Coded with 💖 in Texas</p>
-				&nbsp
-			<p> 日本語　｜　한국인 </p>
 		</footer>
 
 	</div>

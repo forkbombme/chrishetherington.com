@@ -45,7 +45,7 @@ Chris Hetherington
 <html>
 
 <head>
-	<title>Chris Hetherington</title>
+	<title>クリス・ヘザリントン</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -55,28 +55,22 @@ Chris Hetherington
 	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 	<!-- Masonary style effect -->
 	<script src="assets/js/masonry.pkgd.min.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CH0TZGP6ME"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-
-	<!-- LightBox -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js.map"></script>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css"
-		integrity="sha512-Velp0ebMKjcd9RiCoaHhLXkR1sFoCCWXNp6w4zj1hfMifYB5441C+sKeBl/T/Ka6NjBiRfBBQRaQq65ekYz3UQ=="
-		crossorigin="anonymous" referrerpolicy="no-referrer" />
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"
-		integrity="sha512-Y2IiVZeaBwXG1wSV7f13plqlmFOx8MdjuHyYFVoYzhyRr3nH/NMDjTBSswijzADdNzMyWNetbLMfOpIPl6Cv9g=="
-		crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
+  gtag('config', 'G-CH0TZGP6ME');
+</script>
 
 </head>
 
 <body class="is-preload">
 
-	<!-- Wrapper -->
+	<!-- Wrapper -->gi
 	<div id="wrapper">
-
-
 
 		<!-- Header -->
 		<header id="header">
@@ -88,22 +82,21 @@ Chris Hetherington
 			<div class="content">
 				<div class="inner">
 					<h1>クリス・ヘザリントン</h1>
-					<p>コーディングと驚くべきユニークなプロジェクトの作成を愛するフルスタックの開発者およびデザイナー
-私自身と私のクライアント。 今日は何を作成する必要がありますか？</p>
-					<p><b>サイトはまだ作業中です、私のほこりを許してください</b></p>
-					<p><img src="images/chris-signature.png" alt="サイン"></p>
+					<p>私自身と私のクライアントのために、コーディングと素晴らしいユニークなプロジェクトの作成を愛するフルスタックの開発者およびデザイナー。今日は何を作成する必要がありますか？</p>
+					<p><b>サイトはまだ作業中です、私のほこりを許してください
+					</b></p>
+					<p><img src="images/chris-signature.png" alt="Signature"></p>
 					<br />
-					<h2>私の履歴書を見る</h2>
+					<h2>私の再開を見る</h2>
 					<button type="button">ここをクリック</button>
 				</div>
 			</div>
 			<nav>
 				<ul>
 					<li><a href="#intro">イントロ</a></li>
-					<li><a href="#work">業績</a></li>
-					<li><a href="#about">ついて</a></li>
-					<li><a href="#contact">コンタクト</a></li>
-					<!--<li><a href="./ko/">한국어</a></li>-->
+					<li><a href="#work">作業</a></li>
+					<li><a href="#about">会社紹介</a></li>
+					<li><a href="#contact">お問い合わせ</a></li>
 				</ul>
 			</nav>
 		</header>
@@ -116,29 +109,32 @@ Chris Hetherington
 			<article id="intro">
 				<h2 class="major">イントロ</h2>
 				<span class="image main"><img src="images/doge.png" alt="" /></span>
-				<p>私は15年の経験を持つウェブデザイナー兼コーダーです。 過去と現在の仕事がたくさんあります
-				このサイトにリストされている私のポートフォリオ。 私は自分の仕事に情熱を持っており、コラボレーションが大好きです
-				他の人と協力して素晴らしいものを作ります。 ちなみに、私の<a href = "#work">素晴らしいをチェックしてください
-				ここで作業します</a>。</p>
-				<p>私について詳しくは、<a href = "＃about">こちらのリンク</a>をご覧ください。 自分でタイプしたのでご容赦ください
-				書き方の悪さやつづりの間違いの可能性。 これを楽しんでいるなら、飲み物を手に入れましょう！</p>
+				<!-- <p>I am a web designer and coder with 15 years experience. I have a number of past and current work in
+					my portfolio that is listed here on this site. I am passionate about my work and love collaborating
+					and working with others to make amazing things. By the way, check out my <a href="#work">awesome
+						work here</a>.</p>
+				<p>You can read more about me over <a href="#about">here at this link</a>. I typed it myself so pardon
+					the poor writing and possible spelling mistakes. If you enjoy this lets get a drink! </p> -->
+
+					<h3>おっす！ クリスです 👋</3>
+					<h4>私はフルスタックの開発者および製品設計者です。 ウェブに非常に情熱を注いでおり、デザインとコードに関する人々の問題を解決しています。現在、米国のテキサスに拠点を置いています。 </h4>
+					<p>もっと、 <a href="#about">私について</a> &nbsp;&nbsp; - &nbsp;&nbsp; これが私の<a href="#work">プロジェクト</a>です。</p>
 			</article>
 
+
 			<!-- Work -->
-			<article id="work">
-				<h2 class="major">業績</h2>
-				<span class="image main"><img src="images/doge.png" alt="Work Header" /></span>
+			<!-- <article id="work">
+				<h2 class="major">Work</h2>
+
 				<div class="row0">
 					<div class="item0">
-						<div class="well0" data-toggle="lightbox">
+						<div class="well0">
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/230/230/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
@@ -147,11 +143,9 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/150/280/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
@@ -160,11 +154,9 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/230/250/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
@@ -173,11 +165,9 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/180/180/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
@@ -186,11 +176,9 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/180/200/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
@@ -199,11 +187,9 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/150/280/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
@@ -212,11 +198,9 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/280/280/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
@@ -225,11 +209,9 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/150/150/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
@@ -238,11 +220,9 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/150/150/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
@@ -251,11 +231,9 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/300/300/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
@@ -264,51 +242,326 @@ Chris Hetherington
 							<img style="max-width:100%; width: 100%; height: 100%;"
 								src="https://placeimg.com/150/280/any?t=1639168274419" class="img-fluid" alt="">
 							<div class="text0">
-								<div class="text00">
-									<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
-									<button type="button" class="button02">Click Here</button>
+								<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h6>
+								<button type="button" class="button02">Click Here</button>
 
-								</div>
 							</div>
 						</div>
 					</div>
 
 				</div>
-			</article>
 
+
+				<span class="image main"><img class="img-fluid" src="images/pic02.jpg" alt="alt" /></span>
+				<img style="max-width:100%" src="images/miku.jpg" class="img-fluid" alt="Miku">
+			</article> -->
+			<style>
+				
+				.gallery-title
+				{
+					font-size: 36px;
+					color: White;
+					font-weight: 500;
+					margin-bottom: 1px solid white;
+				}
+				
+				.filter-button
+				{
+					font-size: 18px;
+					border-radius: 5px;
+					text-align: center;
+					margin-bottom: 30px;
+
+				}
+				.filter-button:hover
+				{
+					font-size: 18px;
+					border-radius: 5px;
+					text-align: center;
+					color: #ffffff;
+
+				}
+				.btn-default:active .filter-button:active
+				{
+					
+					color: white;
+				}
+
+				.port-image
+				{
+					width: 100%;
+				}
+
+				.gallery_product
+				{
+					margin-bottom: 30px;
+				}
+
+				article { 
+					width: 66rem !important;
+				}
+
+				.mimi {
+					display: flex;
+					justify-content: center;
+					flex-direction: row;
+					flex-wrap: wrap;
+					gap: 32px;
+				}
+				.filter {
+					max-width: 360px;
+				}
+				.project-desc {
+					font-size: 16px;
+					margin-bottom: 1rem;
+				}
+				.mt-16 {
+					margin-top: 16px;
+				}
+				.btn-default2 {
+					font-size: 13px;
+					padding: 8px 16px;
+					line-height: unset;
+					width: 100%;
+					display: flex;
+					justify-content: center;
+					align-items: center;
+					border: 1px solid white;
+				}
+				.btn-default2:hover { 
+					border: 1px solid white;
+					background-color: rgba(255, 255, 255, 0.2);
+				}
+				.btn-groups {
+					display: flex;
+					flex-direction: row;
+					gap: 8px;
+				}
+				.h5 {
+					font-size: 16px;
+				}
+			</style>
+
+			<article id="work">
+				
+				<div class="container">
+					<div class="row">
+						<h2 class="major">Work</h2>
+			
+						<div align="center">
+							<button class="btn btn-default filter-button" data-filter="all">All</button>
+							<button class="btn btn-default filter-button" data-filter="hdpe">HDPE Pipes</button>
+							<button class="btn btn-default filter-button" data-filter="sprinkle">Sprinkle Pipes</button>
+							<button class="btn btn-default filter-button" data-filter="spray">Spray Nozzle</button>
+							<button class="btn btn-default filter-button" data-filter="irrigation">Irrigation Pipes</button>
+						</div>
+						
+						<br/>
+
+						<div class="mimi">
+
+							<div class="filter sprinkle">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter hdpe">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter hdpe">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter sprinkle">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter sprinkle">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter spray">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter spray">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter spray">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter hdpe">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter hdpe">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter irrigation">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter hdpe">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+
+							
+							
+						</div>
+
+						<br/>
+						<br/>
+						<br/>
+
+						
+					</div>
+				</div>
+
+			</article>
 
 			<!-- About -->
 			<article id="about">
-				<h2 class="major">ついて</h2>
+				<h2 class="major">会社紹介</h2>
 				<span class="image main"><img src="images/about-header.png" alt="About Header" /></span>
-				<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at
-					eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-					lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada
-					fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum
-					dolor sit amet.</p>
+				<div>
+					<p>よ！ クリスです 👋</p>
+					<p>私はフルスタック開発者であり、製品デザイナーです。 ビジネスの開始、成長、拡張を支援するソリューションの構築と設計に15年以上の経験があります。 </p>
+					<p>これまで私が取り組んできたいくつかのテクノロジーは次のとおりです。</p>
+					<div style="display: flex; flex-direction: row; gap: 32px;">
+						<ul>
+							<li>PHP</li>
+							<li>Python</li>
+							<li>HTML / CSS</li>
+						</ul>
+						<ul>
+							<li>Javascript / ES6 </li>
+							<li>React JS</li>
+							<li>TypeScript</li>
+						</ul>
+					</div>
+					<p>
+					    勤勉で勤勉で結果志向の男性である私は、常に、手がけている各プロジェクトで最高の結果を達成するよう努めています。 私は同じ考え方と価値観を持つチームの一員であることが大好きです</p>
+					<p>
+					    私は仕事をしていない間、家族や友人と自由な時間を過ごし、料理をしたり、ゲームをしたり、すべての良い犬や猫をかわいがったりしています。</p>
+					
+					<p>Check my <a href="#work">Work</a> </p>  Say Hello 👋 <a href="">Twitter</a>
+
+					<br>
+					<br>
+					<br>
+				</div> 
+				
 			</article>
 
 			<!-- Contact -->
 			<article id="contact">
-				<h2 class="major">コンタクト</h2>
+				<h2 class="major">Contact</h2>
 
 				<form id="reset">
 					<div class="fields">
 						<div class="field half">
-							<label for="name">名前</label>
+							<label for="name">Name</label>
 							<input type="text" name="name" id="name" />
 						</div>
 						<div class="field half">
-							<label for="email">Eメール</label>
+							<label for="email">Email</label>
 							<input type="text" name="email" id="email" />
 						</div>
 						<div class="field">
-							<label for="message">メッセージ</label>
+							<label for="message">Message</label>
 							<textarea name="message" id="message" rows="4"></textarea>
 						</div>
 
 						<div class="field half">
-							<label for="email">ファイルを添付する</label>
+							<label for="email">Attach file</label>
 							<input type="file" name="attachment[]" id="file" accept=".pdf,.doc" />
 						</div>
 						<div class="field">
@@ -620,6 +873,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<!-- Footer -->
 		<footer id="footer">
 			<p class="copyright">&copy; クリス・ヘザリントン。 テキサスで💖でコード化</p>
+				&nbsp
+			<p> English　｜　한국인 </p>
 		</footer>
 
 	</div>
@@ -692,5 +947,36 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			alert("Please upload file less than 2MB. Thanks!!");
 			$(this).val('');
 		}
+	});
+</script>
+
+
+
+<script>
+	$(document).ready(function(){
+
+		$(".filter-button").click(function(){
+			var value = $(this).attr('data-filter');
+			
+			if(value == "all")
+			{
+				//$('.filter').removeClass('hidden');
+				$('.filter').show('1000');
+			}
+			else
+			{
+		//            $('.filter[filter-item="'+value+'"]').removeClass('hidden');
+		//            $(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
+				$(".filter").not('.'+value).hide('3000');
+				$('.filter').filter('.'+value).show('3000');
+				
+			}
+		});
+
+		if ($(".filter-button").removeClass("active")) {
+			$(this).removeClass("active");
+		}
+		$(this).addClass("active");
+
 	});
 </script>

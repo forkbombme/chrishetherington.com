@@ -110,17 +110,22 @@ Chris Hetherington
 			<article id="intro">
 				<h2 class="major">Intro</h2>
 				<span class="image main"><img src="images/doge.png" alt="" /></span>
-				<p>I am a web designer and coder with 15 years experience. I have a number of past and current work in
+				<!-- <p>I am a web designer and coder with 15 years experience. I have a number of past and current work in
 					my portfolio that is listed here on this site. I am passionate about my work and love collaborating
 					and working with others to make amazing things. By the way, check out my <a href="#work">awesome
 						work here</a>.</p>
 				<p>You can read more about me over <a href="#about">here at this link</a>. I typed it myself so pardon
-					the poor writing and possible spelling mistakes. If you enjoy this lets get a drink! </p>
+					the poor writing and possible spelling mistakes. If you enjoy this lets get a drink! </p> -->
+
+					<h3>Hey! I'm Chris 👋</3>
+					<h4>I'm a full stack developer and product designer. Super passionate about the web, I solve people's problems with design and code, Currently, based in Texas, US. </h4>
+					<p>More <a href="#about">About Me</a> &nbsp;&nbsp; - &nbsp;&nbsp; Here's my <a href="#work">Work</a> </p>
+					
 			</article>
 
 
 			<!-- Work -->
-			<article id="work">
+			<!-- <article id="work">
 				<h2 class="major">Work</h2>
 
 				<div class="row0">
@@ -251,18 +256,288 @@ Chris Hetherington
 
 				<span class="image main"><img class="img-fluid" src="images/pic02.jpg" alt="alt" /></span>
 				<img style="max-width:100%" src="images/miku.jpg" class="img-fluid" alt="Miku">
-			</article>
+			</article> -->
+			<style>
+				
+				.gallery-title
+				{
+					font-size: 36px;
+					color: White;
+					font-weight: 500;
+					margin-bottom: 1px solid white;
+				}
+				
+				.filter-button
+				{
+					font-size: 18px;
+					border-radius: 5px;
+					text-align: center;
+					margin-bottom: 30px;
 
+				}
+				.filter-button:hover
+				{
+					font-size: 18px;
+					border-radius: 5px;
+					text-align: center;
+					color: #ffffff;
+
+				}
+				.btn-default:active .filter-button:active
+				{
+					
+					color: white;
+				}
+
+				.port-image
+				{
+					width: 100%;
+				}
+
+				.gallery_product
+				{
+					margin-bottom: 30px;
+				}
+
+				article { 
+					width: 66rem !important;
+				}
+
+				.mimi {
+					display: flex;
+					justify-content: center;
+					flex-direction: row;
+					flex-wrap: wrap;
+					gap: 32px;
+				}
+				.filter {
+					max-width: 360px;
+				}
+				.project-desc {
+					font-size: 16px;
+					margin-bottom: 1rem;
+				}
+				.mt-16 {
+					margin-top: 16px;
+				}
+				.btn-default2 {
+					font-size: 13px;
+					padding: 8px 16px;
+					line-height: unset;
+					width: 100%;
+					display: flex;
+					justify-content: center;
+					align-items: center;
+					border: 1px solid white;
+				}
+				.btn-default2:hover { 
+					border: 1px solid white;
+					background-color: rgba(255, 255, 255, 0.2);
+				}
+				.btn-groups {
+					display: flex;
+					flex-direction: row;
+					gap: 8px;
+				}
+				.h5 {
+					font-size: 16px;
+				}
+			</style>
+
+			<article id="work">
+				
+				<div class="container">
+					<div class="row">
+						<h2 class="major">Work</h2>
+			
+						<div align="center">
+							<button class="btn btn-default filter-button" data-filter="all">All</button>
+							<button class="btn btn-default filter-button" data-filter="hdpe">Graphic Design</button>
+							<button class="btn btn-default filter-button" data-filter="sprinkle">Web Design</button>
+							<button class="btn btn-default filter-button" data-filter="spray">Logo Design</button>
+						</div>
+						
+						<br/>
+
+						<div class="mimi">
+
+							<div class="filter sprinkle">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter hdpe">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter hdpe">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter sprinkle">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter sprinkle">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter spray">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter spray">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter spray">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter hdpe">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter hdpe">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter irrigation">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+							<div class="filter hdpe">
+								<img src="http://fakeimg.pl/365x365/" class="img-responsive">
+								<div>
+									<h5 class="h5 mt-16">Title of your amazing project</h5>
+									<p class="project-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, recusandae sunt? Nobis obcaecati sapiente provident error.</p>
+									<div class="btn-groups">
+										<a href="#" class="btn btn-default2" >Source</a>
+										<a href="#" class="btn btn-default2" >Live Project</a>
+									</div>
+								</div>
+							</div>
+
+							
+							
+						</div>
+
+						<br/>
+						<br/>
+						<br/>
+
+						
+					</div>
+				</div>
+
+			</article>
 
 			<!-- About -->
 			<article id="about">
 				<h2 class="major">About</h2>
 				<span class="image main"><img src="images/about-header.png" alt="About Header" /></span>
-				<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at
-					eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-					lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada
-					fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum
-					dolor sit amet.</p>
+				<div>
+					<p>Yo! It' Chris 👋</p>
+					<p>I'm a full stack developer and a product designer. With 15+ years of experience in building and designing solutions that help businesses start, grow and scale. </p>
+					<p>Here are a few technologies I’ve been working with:</p>
+					<div style="display: flex; flex-direction: row; gap: 32px;">
+						<ul>
+							<li>PHP</li>
+							<li>Python</li>
+							<li>HTML / CSS</li>
+						</ul>
+						<ul>
+							<li>Javascript / ES6 </li>
+							<li>React JS</li>
+							<li>TypeScript</li>
+						</ul>
+					</div>
+					<p>Being a diligent, hardworking and result oriented men, I always work towards achieving best result on each project I lay my hands on. I love being a part of a team with same mindset and values</p>
+					<p>While I'm not working, I spend my freetime with my family and friends, cooking, gaming, and petting all the good dogs and cats.</p>
+					
+					<p>Check my <a href="#work">Work</a> </p>  Say Hello 👋 <a href="">Twitter</a>
+
+					<br>
+					<br>
+					<br>
+				</div> 
+				
 			</article>
 
 			<!-- Contact -->
@@ -671,5 +946,36 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			alert("Please upload file less than 2MB. Thanks!!");
 			$(this).val('');
 		}
+	});
+</script>
+
+
+
+<script>
+	$(document).ready(function(){
+
+		$(".filter-button").click(function(){
+			var value = $(this).attr('data-filter');
+			
+			if(value == "all")
+			{
+				//$('.filter').removeClass('hidden');
+				$('.filter').show('1000');
+			}
+			else
+			{
+		//            $('.filter[filter-item="'+value+'"]').removeClass('hidden');
+		//            $(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
+				$(".filter").not('.'+value).hide('3000');
+				$('.filter').filter('.'+value).show('3000');
+				
+			}
+		});
+
+		if ($(".filter-button").removeClass("active")) {
+			$(this).removeClass("active");
+		}
+		$(this).addClass("active");
+
 	});
 </script>

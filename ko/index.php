@@ -242,10 +242,10 @@ Chris Hetherington
 							<div class="filter sprinkle">
 								<img src="https://chrishetherington.com/images/hane-website-scrnshot.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">HanE Language Exchange</h5>
-									<p class="project-desc">I built Hanelanguage.com using WordPress, taking advantage of its user-friendly interface and customizable themes and plugins. I created a visually appealing and interactive website for language enthusiasts.</p>
+									<h5 class="h5 mt-16">한자어교환소</h5>
+									<p class="project-desc">저는 워드프레스의 사용자 친화적인 인터페이스와 사용자 정의 가능한 테마와 플러그인의 장점을 살려 Hanelanguage.com 을 만들었습니다. 언어 애호가들을 위해 시각적으로 매력적이고 상호적인 웹사이트를 만들었습니다.</p>
 									<div class="btn-groups">
-										<a href="https://hanelanguage.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Link to Website</a>
+										<a href="https://hanelanguage.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >웹사이트 링크</a>
 										<!--<a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>
@@ -253,8 +253,8 @@ Chris Hetherington
 							<div class="filter hdpe">
 								<img src="https://chrishetherington.com/images/aya-uchida-album-cover.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Aya Uchida's 7th Album Design</h5>
-									<p class="project-desc">Using Photoshop, I designed Aya Uchida's album cover. Through creative manipulation and artistic elements, I crafted a visually stunning composition that captures the essence of her music and captivates listeners. While standing out. </p>
+									<h5 class="h5 mt-16">우치다 아야의 7집 앨범 디자인</h5>
+									<p class="project-desc">저는 포토샵을 이용하여 우치다 아야의 앨범 커버를 디자인하였고, 창의적인 조작과 예술적인 요소를 통해 음악의 본질을 잘 포착하고 듣는 이들의 마음을 사로잡는 시각적으로 멋진 구성을 시도했습니다. 눈에 띄면서 말이죠. </p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -264,8 +264,8 @@ Chris Hetherington
 							<div class="filter spray">
 								<img src="https://chrishetherington.com/images/doc-logos.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Dr Echols Logo Designs</h5>
-									<p class="project-desc">LUsing Illustrator, I created Dr. Echols' logo design. Employing vector-based graphics and precision tools, I crafted a unique and professional logo that reflects Dr. Echols' brand identity and communicates their expertise effectively.</p>
+									<h5 class="h5 mt-16">Dr Echols 로고 디자인</h5>
+									<p class="project-desc">Illustrator를 이용하여 닥터에콜스의 로고 디자인을 제작하였고, 벡터 기반의 그래픽과 정밀한 도구를 사용하여 닥터에콜스의 브랜드 아이덴티티를 반영하고 전문성을 효과적으로 전달할 수 있는 독특하고 전문적인 로고로 제작하였습니다.</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -275,10 +275,10 @@ Chris Hetherington
 							<div class="filter sprinkle">
 								<img src="https://chrishetherington.com/images/helena-website-scrnshot.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Helena Facial Time</h5>
-									<p class="project-desc">I built Helena Facial Time website using WordPress, leveraging its versatile features. With a clean and elegant design, I created a user-friendly platform to showcase Helena's services and provide a seamless booking experience.</p>
+									<h5 class="h5 mt-16">헬레나 페이셜 타임</h5>
+									<p class="project-desc">WordPress를 활용하여 Helena Facial Time 웹사이트를 구축하였으며, 깔끔하고 우아한 디자인으로 Helena의 서비스를 소개하고 원활한 예약 경험을 제공하는 사용자 친화적인 플랫폼을 구축하였습니다.</p>
 									<div class="btn-groups">
-										<a href="https://helenafacialtime.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Link to Website</a>
+										<a href="https://helenafacialtime.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >웹사이트 링크</a>
 										<!-- <a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>
@@ -286,21 +286,21 @@ Chris Hetherington
 							<div class="filter sprinkle">
 								<img src="https://chrishetherington.com/images/beautybysakura-website-scrnshot.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Beauty by Sakura</h5>
-									<p class="project-desc">Using WordPress, I crafted Beauty by Sakura's website. With a combination of customizable themes and plugins, I designed an aesthetically pleasing and informative platform, highlighting Sakura's beauty services and expertise for visitors.</p>
+									<h5 class="h5 mt-16">뷰티 바이 사쿠라</h5>
+									<p class="project-desc">저는 워드프레스를 이용하여 뷰티 바이 사쿠라의 웹사이트를 제작하였고, 맞춤형 테마와 플러그인을 조합하여 방문객들을 위한 사쿠라의 뷰티 서비스와 전문성을 강조하며 미적으로 만족스럽고 유익한 플랫폼을 설계하였습니다.</p>
 									<div class="btn-groups">
-										<a href="#" class="btn btn-default2" >Source</a>
-										<a href="#" class="btn btn-default2" >Live Project</a>
+										<a href="https://beautybysakura.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >웹사이트 링크</a>
+										
 									</div>
 								</div>
 							</div>
 							<div class="filter sprinkle">
 								<img src="https://chrishetherington.com/images/sakura-website-scrnshot.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Sakura Sugihara Offical Website</h5>
-									<p class="project-desc">Using WordPress, I created Sakura Sugihara's website. With its versatile tools and themes, I designed a visually appealing and informative platform to showcase Sakura's talents, skills, and portfolio effectively. To showcase her skills and stand out</p>
+									<h5 class="h5 mt-16">스기하라 사쿠라 공식 홈페이지</h5>
+									<p class="project-desc">WordPress를 이용하여 Sugihara Sukihara의 웹사이트를 만들었고, 다양한 도구와 주제를 가지고 Sukihara의 재능과 실력, 포트폴리오를 효과적으로 보여주기 위해 시각적으로 매력적이고 유익한 플랫폼을 디자인하였습니다</p>
 									<div class="btn-groups">
-										<a href="https://sakurasugihara.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Link to Website</a>
+										<a href="https://sakurasugihara.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >웹사이트 링크</a>
 										<!-- <a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>
@@ -308,8 +308,8 @@ Chris Hetherington
 							<div class="filter hdpe">
 								<img src="https://chrishetherington.com/images/jfest-flier.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">2013 Houston Japan Festival Flier</h5>
-									<p class="project-desc">I designed the 2013 Houston Japan Festival using Photoshop. By utilizing creative techniques and graphical elements, I crafted a visually captivating representation of Japanese culture, capturing the essence of the festival's vibrant atmosphere.</p>
+									<h5 class="h5 mt-16">2013년 휴스턴 재팬 페스티벌 플라이어</h5>
+									<p class="project-desc">포토샵을 이용하여 2013 휴스턴 재팬 페스티벌을 기획하였고, 창의적인 기법과 그래픽 요소를 활용하여 일본 문화를 시각적으로 매혹적으로 표현하여 축제 분위기의 정수를 담아냈습니다.</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -319,8 +319,8 @@ Chris Hetherington
 							<div class="filter hdpe">
 								<img src="https://chrishetherington.com/images/cmc-flier.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Re-Trace by Creative Minds Collorative Flier</h5>
-									<p class="project-desc">Using Photoshop, I designed the Creative Minds Collaborative flier for their 2022 play "Re-Trace." Through captivating visuals, typography, and artistic manipulation, I created a compelling flier that captures the essence of the play's theme and entices audiences.</p>
+									<h5 class="h5 mt-16">크리에이티브 마인드 콜라보레이션 플라이어의 리트레이스</h5>
+									<p class="project-desc">2022년 연극 <Re-Trace>를 위해 Creative Minds Collaborative flier를 포토샵을 이용하여 디자인했습니다. 매혹적인 비주얼과 타이포그래피, 예술적 조작을 통해 극 주제의 본질을 포착하고 관객을 유혹하는 매력적인 flier를 만들었습니다.</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -330,8 +330,8 @@ Chris Hetherington
 							<div class="filter spray">
 								<img src="https://chrishetherington.com/images/japanese-speech-contest-logo.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Texas State Japanese Speech Contest</h5>
-									<p class="project-desc">Using Illustrator, I designed the 2014 logo for the Texas State Japanese Speech Contest. By combining intricate vector graphics and precise typography, I created a dynamic and visually engaging logo that represents the spirit of the contest.</p>
+									<h5 class="h5 mt-16">텍사스 일본어 말하기 대회</h5>
+									<p class="project-desc">저는 일러스트레이터를 이용하여 텍사스주 일본어 말하기 대회의 2014년 로고를 디자인하였고, 복잡한 벡터 그래픽과 정밀한 타이포그래피를 결합하여 대회의 정신을 대변하는 역동적이고 시각적인 매력이 있는 로고를 만들었습니다.</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -341,8 +341,8 @@ Chris Hetherington
 							<div class="filter hdpe">
 								<img src="https://chrishetherington.com/images/ballet-returns-flier.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Ballet Returns to Lamar Tower by CMC Flier</h5>
-									<p class="project-desc">Using Photoshop, I designed the Collaborative Minds Collaborative flier for their 2022 play "Ballet Returns to Lamar Tower." Through artistic manipulation and captivating visuals, I crafted a striking flier that captures the elegance and excitement of the ballet performance.</p>
+									<h5 class="h5 mt-16">CMC 플라이어의 라마르 타워로 돌아온 발레</h5>
+									<p class="project-desc">포토샵을 이용하여 2022년 연극 <발레 리턴즈 투 라마르 타워>의 콜라보레이션 마인드 콜라보레이션 플라이어를 디자인하였습니다. 예술적인 조작과 매혹적인 비주얼을 통해 발레 공연의 우아함과 흥을 담아낸 눈에 띄는 플라이어를 제작하였습니다.</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -352,8 +352,8 @@ Chris Hetherington
 							<div class="filter hdpe">
 								<img src="https://chrishetherington.com/images/kore-wa-shiranai.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Kore wa Shiranai Random Art Piece</h5>
-									<p class="project-desc">I created a captivating image in Photoshop by skillfully combining different elements from various images. Through artistic composition and seamless integration, I crafted a visually stunning and unique composition that evokes intrigue and curiosity.</p>
+									<h5 class="h5 mt-16">한국 시라나이 랜덤 아트피스</h5>
+									<p class="project-desc">포토샵에서 다양한 이미지와 다른 요소들을 능숙하게 조합하여 매력적인 이미지를 만들었고, 예술적인 구성과 심리스한 조화를 통해 흥미와 호기심을 불러일으키는 시각적으로 멋지고 독특한 구성을 만들었습니다.</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -377,12 +377,12 @@ Chris Hetherington
 
 			<!-- About -->
 			<article id="about">
-				<h2 class="major">About</h2>
+				<h2 class="major">대해서요</h2>
 				<span class="image main"><img src="images/about-banner.png" alt="About Header" /></span>
 				<div>
-					<p>Hello there. It' Chris here 👋</p>
-					<p>I'm a full stack developer and a graphic designer who focuses a lot in Wordpress development and web hosting via cpanel and linux. With 15+ years of experience in building and designing solutions that help businesses start, grow and scale while standing out from the competition. </p>
-					<p>Here are a few technologies I’ve been working with:</p>
+					<p>안녕하세요, 크리스에요 👋</p>
+					<p>저는 풀스택 개발자이자 cpanel과 linux를 통한 워드프레스 개발과 웹호스팅에 많은 집중을 하는 그래픽 디자이너입니다. 15년 이상의 경력으로 경쟁사에서 두각을 나타내며 비즈니스를 시작, 성장, 확장할 수 있도록 지원하는 솔루션을 구축하고 설계했습니다. </p>
+					<p>제가 지금까지 작업해온 몇 가지 기술은 다음과 같습니다:</p>
 					<div style="display: flex; flex-direction: row; gap: 32px;">
 						<ul>
 							<li>PHP</li>
@@ -396,10 +396,10 @@ Chris Hetherington
 							<li>Vmware ESXI</li>
 						</ul>
 					</div>
-					<p>I always work towards achieving the best results on each project through diligence and hard work. Being part of a team with the same mindset and values bring fulfillment to the work environment.</p>
-					<p>Outside of the work environment I enjoy spending time with family and friends. Or working on my home lab setup of several servers and switches to experiment and learn more. Currently I am pursuing my certifications for Microsoft Azure.</p>
+					<p>저는 항상 성실하고 열심히 노력하여 각 프로젝트에서 최고의 성과를 낼 수 있도록 노력하고 있습니다. 같은 사고방식과 가치관을 가진 팀의 일원이 됨으로써 업무 환경에 대한 성취감을 얻을 수 있습니다.</p>
+					<p>저는 직장 밖에서 가족, 친구들과 함께 시간을 보내는 것을 즐깁니다. 또는 실험과 학습을 위해 여러 서버와 스위치를 설치하는 홈 랩 작업을 하고 있습니다. 현재 저는 마이크로소프트 애저 자격증을 취득하려고 노력하고 있습니다.</p>
 					
-					<p>Check my <a href="#work">Work</a> </p>  Say Hello 👋 <a href="https://twitter.com/forkbombme" target="_blank" rel="noopener noreferrer" >Twitter</a> or on <a href="https://www.linkedin.com/in/chetherington/" target="_blank" rel="noopener noreferrer">Linkedin</a>
+					<p>체크 마이 <a href="#work">일해요</a> </p>  안부 전해주세요. 👋 <a href="https://twitter.com/forkbombme" target="_blank" rel="noopener noreferrer" >Twitter</a> 또는 위에 <a href="https://www.linkedin.com/in/chetherington/" target="_blank" rel="noopener noreferrer">Linkedin</a>
 
 					<br>
 					<br>
@@ -410,25 +410,25 @@ Chris Hetherington
 
 			<!-- Contact -->
 			<article id="contact">
-				<h2 class="major">Contact</h2>
+				<h2 class="major">연락</h2>
 
 				<form id="reset">
 					<div class="fields">
 						<div class="field half">
-							<label for="name">Name</label>
+							<label for="name">이름</label>
 							<input type="text" name="name" id="name" />
 						</div>
 						<div class="field half">
-							<label for="email">Email</label>
+							<label for="email">이메일</label>
 							<input type="text" name="email" id="email" />
 						</div>
 						<div class="field">
-							<label for="message">Message</label>
+							<label for="message">메세지</label>
 							<textarea name="message" id="message" rows="4"></textarea>
 						</div>
 
 						<div class="field half">
-							<label for="email">Attach file</label>
+							<label for="email">첨부파일</label>
 							<input type="file" name="attachment[]" id="file" accept=".pdf,.doc" />
 						</div>
 						<div class="field">

@@ -117,10 +117,10 @@ Chris Hetherington
 				<h2 class="major">イントロ</h2>
 				<span class="image main"><img src="images/doge.png" alt="" /></span>
 					<h3>こんにちは! クリスです 👋</h3>
-					<p>저의 웹 디자인과 개발의 세계에 오신 것을 환영합니다. 여기서 창의성과 기술이 만나 여러분의 아이디어를 실현할 수 있습니다. 전문 웹 디자이너로서, 저는 귀사의 브랜드, 가치 및 제품을 가능한 한 최상의 방법으로 보여주는 맞춤형 웹 사이트를 만드는 것을 전문으로 합니다.
+					<p>私のウェブデザインと開発の世界へようこそ。創造性とテクノロジーが出会い、アイデアを生き生きと表現します。 私はプロのWebデザイナーとして、あなたのブランドや価値観、サービスを最高の方法で紹介するカスタムWebサイトを作成することを専門としています。
 					<br />
-					   세부 사항에 대한 예리한 안목과 탁월한 결과를 제공하기 위한 열정으로, 저는 수많은 고객들이 온라인 목표를 달성하고 경쟁에서 두각을 나타낼 수 있도록 도와왔습니다. 제 포트폴리오를 훑어보고 제 과거 작업 중 일부를 확인하고 여러분의 웹사이트 꿈을 실현하기 위해 함께 노력해 봅시다.</p>
-					<p>더 <a href="#about">나에 대해서</a> &nbsp;&nbsp; - &nbsp;&nbsp; 여기 내 것 <a href="#work">일해요</a> </p>
+					細部への鋭い眼目と卓越した結果をもたらすことに情熱を持って、私は多くのクライアントがオンライン目標を達成し、競合他社から際立っているのを支援してきました。 私のポートフォリオを参照して、過去の作品をいくつかご覧ください。そして、あなたのウェブサイトの夢を実現するために一緒に働きましょう。</p>
+					<p>もっと <a href="#about">私について</a> &nbsp;&nbsp; - &nbsp;&nbsp; これが私の <a href="#work">作業</a> </p>
 					
 			</article>
 			<style>
@@ -231,10 +231,10 @@ Chris Hetherington
 							<div class="filter sprinkle">
 								<img src="https://chrishetherington.com/images/lindakim-website-scrnshot.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">린다 김 공식 웹사이트</h5>
-									<p class="project-desc">저는 워드프레스의 사용자 정의 가능한 기능을 이용하여 linda.kim 웹사이트를 만들었습니다. 세련된 디자인과 상호 작용적인 요소를 갖춘 이 웹 사이트는 린다 김의 브랜드와 컨텐츠에 매혹적인 온라인 존재감을 제공합니다. 그래서 그녀는 청중들에게 다가갈 수 있습니다.</p>
+									<h5 class="h5 mt-16">Linda Kim オフィシャルサイト</h5>
+									<p class="project-desc">私はカスタマイズ可能な機能を利用して、WordPressを使ってlinda.kimのウェブサイトを作りました。 スタイリッシュなデザインとインタラクティブな要素により、Linda Kimのブランドとコンテンツに魅力的なオンラインプレゼンスを提供します。 だから、彼女は聴衆に届くのです</p>
 									<div class="btn-groups">
-										<a href="https://linda.kim" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >웹 사이트 링크</a>
+										<a href="https://linda.kim" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Webサイトへのリンク</a>
 										<!-- <a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>
@@ -242,10 +242,10 @@ Chris Hetherington
 							<div class="filter sprinkle">
 								<img src="https://chrishetherington.com/images/hane-website-scrnshot.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">HanE Language Exchange</h5>
-									<p class="project-desc">I built Hanelanguage.com using WordPress, taking advantage of its user-friendly interface and customizable themes and plugins. I created a visually appealing and interactive website for language enthusiasts.</p>
+									<h5 class="h5 mt-16">HanE言語交換</h5>
+									<p class="project-desc">WordPress を使用して Hanelanguage.com を構築し、使いやすいインターフェイスとカスタマイズ可能なテーマとプラグインを利用しました。 私は言語愛好家のために視覚的に魅力的でインタラクティブなウェブサイトを作りました。</p>
 									<div class="btn-groups">
-										<a href="https://hanelanguage.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Link to Website</a>
+										<a href="https://hanelanguage.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Webサイトへのリンク</a>
 										<!--<a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>
@@ -253,8 +253,8 @@ Chris Hetherington
 							<div class="filter hdpe">
 								<img src="https://chrishetherington.com/images/aya-uchida-album-cover.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Aya Uchida's 7th Album Design</h5>
-									<p class="project-desc">Using Photoshop, I designed Aya Uchida's album cover. Through creative manipulation and artistic elements, I crafted a visually stunning composition that captures the essence of her music and captivates listeners. While standing out. </p>
+									<h5 class="h5 mt-16">内田あやの7thアルバムデザイン</h5>
+									<p class="project-desc">Photoshopを使って内田彩のアルバムカバーをデザインしました。 創造的な操作と芸術的要素を通して、彼女の音楽の本質をとらえ、リスナーを魅了する視覚的に素晴らしい作曲を作りました。 目立つように。 </p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -264,8 +264,8 @@ Chris Hetherington
 							<div class="filter spray">
 								<img src="https://chrishetherington.com/images/doc-logos.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Dr Echols Logo Designs</h5>
-									<p class="project-desc">LUsing Illustrator, I created Dr. Echols' logo design. Employing vector-based graphics and precision tools, I crafted a unique and professional logo that reflects Dr. Echols' brand identity and communicates their expertise effectively.</p>
+									<h5 class="h5 mt-16">Dr Echolsのロゴデザイン</h5>
+									<p class="project-desc">Illustratorを使って、博士号を取得しました。 Echolsのロゴデザイン。 ベクターベースのグラフィックスと精密ツールを使用して、私は博士号を反映したユニークでプロフェッショナルなロゴを作成しました。 Echolsのブランドアイデンティティと専門知識を効果的に伝達します。</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -275,10 +275,10 @@ Chris Hetherington
 							<div class="filter sprinkle">
 								<img src="https://chrishetherington.com/images/helena-website-scrnshot.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Helena Facial Time</h5>
-									<p class="project-desc">I built Helena Facial Time website using WordPress, leveraging its versatile features. With a clean and elegant design, I created a user-friendly platform to showcase Helena's services and provide a seamless booking experience.</p>
+									<h5 class="h5 mt-16">ヘレナ·フェイシャル·タイム</h5>
+									<p class="project-desc">私はWordPressを使用してHelena Facial Timeのウェブサイトを構築し、その多用途な機能を活用しました。 清潔でエレガントなデザインで、私はHelenaのサービスを紹介し、シームレスな予約体験を提供するために使いやすいプラットフォームを作りました。</p>
 									<div class="btn-groups">
-										<a href="https://helenafacialtime.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Link to Website</a>
+										<a href="https://helenafacialtime.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Webサイトへのリンク</a>
 										<!-- <a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>
@@ -287,20 +287,19 @@ Chris Hetherington
 								<img src="https://chrishetherington.com/images/beautybysakura-website-scrnshot.png" class="img-responsive">
 								<div>
 									<h5 class="h5 mt-16">Beauty by Sakura</h5>
-									<p class="project-desc">Using WordPress, I crafted Beauty by Sakura's website. With a combination of customizable themes and plugins, I designed an aesthetically pleasing and informative platform, highlighting Sakura's beauty services and expertise for visitors.</p>
+									<p class="project-desc">WordPressを使って、SakuraのサイトでBeautyを作りました。 カスタマイズ可能なテーマとプラグインの組み合わせで、私は美的に喜ばれる有益なプラットフォームをデザインし、訪問者のためのさくらの美容サービスと専門知識を強調しました。</p>
 									<div class="btn-groups">
-										<a href="#" class="btn btn-default2" >Source</a>
-										<a href="#" class="btn btn-default2" >Live Project</a>
+									<a href="https://beautybysakura.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Webサイトへのリンク</a>
 									</div>
 								</div>
 							</div>
 							<div class="filter sprinkle">
 								<img src="https://chrishetherington.com/images/sakura-website-scrnshot.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Sakura Sugihara Offical Website</h5>
-									<p class="project-desc">Using WordPress, I created Sakura Sugihara's website. With its versatile tools and themes, I designed a visually appealing and informative platform to showcase Sakura's talents, skills, and portfolio effectively. To showcase her skills and stand out</p>
+									<h5 class="h5 mt-16">杉原さくらオフィシャルサイト</h5>
+									<p class="project-desc">WordPressを使って、杉原咲良さんのサイトを作りました。 多用途なツールとテーマで、さくらの才能やスキル、ポートフォリオを効果的に紹介する視覚的に魅力的で有益なプラットフォームをデザインしました。 お姉さんの実力を見せて 目立つように</p>
 									<div class="btn-groups">
-										<a href="https://sakurasugihara.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Link to Website</a>
+										<a href="https://sakurasugihara.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Webサイトへのリンク</a>
 										<!-- <a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>
@@ -308,8 +307,8 @@ Chris Hetherington
 							<div class="filter hdpe">
 								<img src="https://chrishetherington.com/images/jfest-flier.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">2013 Houston Japan Festival Flier</h5>
-									<p class="project-desc">I designed the 2013 Houston Japan Festival using Photoshop. By utilizing creative techniques and graphical elements, I crafted a visually captivating representation of Japanese culture, capturing the essence of the festival's vibrant atmosphere.</p>
+									<h5 class="h5 mt-16">2013年ヒューストン·ジャパン·フェスティバル·フライヤー</h5>
+									<p class="project-desc">2013年ヒューストンジャパンフェスティバルはPhotoshopを使ってデザインしました。 クリエイティブな技術とグラフィック要素を駆使して、日本文化を視覚的に魅了し、祭りの活気ある雰囲気の本質を捉えました。</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -319,8 +318,8 @@ Chris Hetherington
 							<div class="filter hdpe">
 								<img src="https://chrishetherington.com/images/cmc-flier.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Re-Trace by Creative Minds Collorative Flier</h5>
-									<p class="project-desc">Using Photoshop, I designed the Creative Minds Collaborative flier for their 2022 play "Re-Trace." Through captivating visuals, typography, and artistic manipulation, I created a compelling flier that captures the essence of the play's theme and entices audiences.</p>
+									<h5 class="h5 mt-16">Creative Mindsコラボフライヤーによる再追跡</h5>
+									<p class="project-desc">Photoshopを使って、2022年の作品「Re-Trace」のためにCreative Minds Collaborativeチラシをデザインしました 魅惑的なビジュアルとタイポグラフィ、芸術的操作を通じて、劇のテーマの本質を捉え、観客を魅了する説得力のあるフライヤーを作りました。</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -330,8 +329,8 @@ Chris Hetherington
 							<div class="filter spray">
 								<img src="https://chrishetherington.com/images/japanese-speech-contest-logo.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Texas State Japanese Speech Contest</h5>
-									<p class="project-desc">Using Illustrator, I designed the 2014 logo for the Texas State Japanese Speech Contest. By combining intricate vector graphics and precise typography, I created a dynamic and visually engaging logo that represents the spirit of the contest.</p>
+									<h5 class="h5 mt-16">テキサス州立日本語スピーチコンテスト</h5>
+									<p class="project-desc">イラストレーターを使って、テキサス州立日本語スピーチコンテスト2014のロゴをデザインしました。 複雑なベクターグラフィックスと精密なタイポグラフィを組み合わせることで、コンテストの精神を表すダイナミックで視覚的に魅力的なロゴを作成しました。</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -341,8 +340,8 @@ Chris Hetherington
 							<div class="filter hdpe">
 								<img src="https://chrishetherington.com/images/ballet-returns-flier.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Ballet Returns to Lamar Tower by CMC Flier</h5>
-									<p class="project-desc">Using Photoshop, I designed the Collaborative Minds Collaborative flier for their 2022 play "Ballet Returns to Lamar Tower." Through artistic manipulation and captivating visuals, I crafted a striking flier that captures the elegance and excitement of the ballet performance.</p>
+									<h5 class="h5 mt-16">バレエ団、CMCフライヤーによりラマータワーに帰還</h5>
+									<p class="project-desc">私はPhotoshopを使って、2022年の演劇「Ballet Returns to Lamar Tower」のためにコラボラティブ·マインド·コラボレーション·フライヤーをデザインしました 芸術的な操作と魅惑的なビジュアルを通して、バレエ公演の優雅さと興奮を捉える印象的なフライヤーを作りました。</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -352,8 +351,8 @@ Chris Hetherington
 							<div class="filter hdpe">
 								<img src="https://chrishetherington.com/images/kore-wa-shiranai.png" class="img-responsive">
 								<div>
-									<h5 class="h5 mt-16">Kore wa Shiranai Random Art Piece</h5>
-									<p class="project-desc">I created a captivating image in Photoshop by skillfully combining different elements from various images. Through artistic composition and seamless integration, I crafted a visually stunning and unique composition that evokes intrigue and curiosity.</p>
+									<h5 class="h5 mt-16">これは知らないランダムアートピース</h5>
+									<p class="project-desc">Photoshopでは、さまざまな画像と異なる要素を巧みに組み合わせて魅力的な画像を作成しました。 芸術的な構成とシームレスな統合により、私は興味と好奇心を呼び起こす視覚的に魅力的でユニークな構成を作りました。</p>
 									<div class="btn-groups">
 										<a href="#" class="btn btn-default2" >Source</a>
 										<a href="#" class="btn btn-default2" >Live Project</a>
@@ -377,12 +376,12 @@ Chris Hetherington
 
 			<!-- About -->
 			<article id="about">
-				<h2 class="major">About</h2>
+				<h2 class="major">約</h2>
 				<span class="image main"><img src="images/about-banner.png" alt="About Header" /></span>
 				<div>
-					<p>Hello there. It' Chris here 👋</p>
-					<p>I'm a full stack developer and a graphic designer who focuses a lot in Wordpress development and web hosting via cpanel and linux. With 15+ years of experience in building and designing solutions that help businesses start, grow and scale while standing out from the competition. </p>
-					<p>Here are a few technologies I’ve been working with:</p>
+					<p>こんにちは!。 ここはクリスだよ 👋</p>
+					<p>私はフルスタック開発者であり、CpanelとLinuxを介したWordpress開発とウェブホスティングに多くの焦点を当てているグラフィックデザイナーです。 15年以上にわたるソリューションの構築と設計の経験があり、競合他社をしのぐビジネスの立ち上げ、成長、および拡張を支援します。 </p>
+					<p>以下は、私が取り組んできたいくつかのテクノロジーです:</p>
 					<div style="display: flex; flex-direction: row; gap: 32px;">
 						<ul>
 							<li>PHP</li>
@@ -396,10 +395,10 @@ Chris Hetherington
 							<li>Vmware ESXI</li>
 						</ul>
 					</div>
-					<p>I always work towards achieving the best results on each project through diligence and hard work. Being part of a team with the same mindset and values bring fulfillment to the work environment.</p>
-					<p>Outside of the work environment I enjoy spending time with family and friends. Or working on my home lab setup of several servers and switches to experiment and learn more. Currently I am pursuing my certifications for Microsoft Azure.</p>
+					<p>私は常に勤勉と努力を通じて各プロジェクトで最高の結果を得るために努力しています。 同じ考え方と価値観を持つチームの一員であることは、職場環境に満足感をもたらします。</p>
+					<p>職場以外では、家族や友人と過ごす時間を楽しんでいます。 または、ホームラボで複数のサーバとスイッチをセットアップし、実験や詳細を行う作業も同様です。 現在、Microsoft Azure の認定を取得しています。</p>
 					
-					<p>Check my <a href="#work">Work</a> </p>  Say Hello 👋 <a href="https://twitter.com/forkbombme" target="_blank" rel="noopener noreferrer" >Twitter</a> or on <a href="https://www.linkedin.com/in/chetherington/" target="_blank" rel="noopener noreferrer">Linkedin</a>
+					<p>チェックマイ <a href="#work">作業</a> </p>  挨拶 👋 <a href="https://twitter.com/forkbombme" target="_blank" rel="noopener noreferrer" >ツイッター</a> またはその後 <a href="https://www.linkedin.com/in/chetherington/" target="_blank" rel="noopener noreferrer">リンクトイン</a>
 
 					<br>
 					<br>
@@ -410,25 +409,25 @@ Chris Hetherington
 
 			<!-- Contact -->
 			<article id="contact">
-				<h2 class="major">Contact</h2>
+				<h2 class="major">連絡先</h2>
 
 				<form id="reset">
 					<div class="fields">
 						<div class="field half">
-							<label for="name">Name</label>
+							<label for="name">名前</label>
 							<input type="text" name="name" id="name" />
 						</div>
 						<div class="field half">
-							<label for="email">Email</label>
+							<label for="email">Eメール</label>
 							<input type="text" name="email" id="email" />
 						</div>
 						<div class="field">
-							<label for="message">Message</label>
+							<label for="message">メッセージ</label>
 							<textarea name="message" id="message" rows="4"></textarea>
 						</div>
 
 						<div class="field half">
-							<label for="email">Attach file</label>
+							<label for="email">添付ファイル</label>
 							<input type="file" name="attachment[]" id="file" accept=".pdf,.doc" />
 						</div>
 						<div class="field">

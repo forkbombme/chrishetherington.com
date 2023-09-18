@@ -214,14 +214,14 @@ Chris Hetherington
 				
 				<div class="container">
 					<div class="row">
-						<h2 class="major">일해요</h2>
+						<h2 class="major">作業</h2>
 			
 						<div align="center">
-							<button class="btn btn-default filter-button" data-filter="all">모든</button>
-							<button class="btn btn-default filter-button" data-filter="hdpe">그래픽 디자인</button>
-							<button class="btn btn-default filter-button" data-filter="sprinkle">웹 디자인</button>
-							<button class="btn btn-default filter-button" data-filter="spray">로고 디자인</button>
-							<button class="btn btn-default filter-button" data-filter="spray">비디오 편집</button>
+							<button class="btn btn-default filter-button" data-filter="all">すべて</button>
+							<button class="btn btn-default filter-button" data-filter="hdpe">グラフィックデザイン</button>
+							<button class="btn btn-default filter-button" data-filter="sprinkle">ウェブデザイン</button>
+							<button class="btn btn-default filter-button" data-filter="spray">ロゴデザイン</button>
+							<button class="btn btn-default filter-button" data-filter="spray">ビデオ編集</button>
 						</div>
 						
 						<br/>
@@ -234,7 +234,7 @@ Chris Hetherington
 									<h5 class="h5 mt-16">Linda Kim オフィシャルサイト</h5>
 									<p class="project-desc">私はカスタマイズ可能な機能を利用して、WordPressを使ってlinda.kimのウェブサイトを作りました。 スタイリッシュなデザインとインタラクティブな要素により、Linda Kimのブランドとコンテンツに魅力的なオンラインプレゼンスを提供します。 だから、彼女は聴衆に届くのです</p>
 									<div class="btn-groups">
-										<a href="https://linda.kim" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Webサイトへのリンク</a>
+										<a href="https://linda.kim" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >ウェブサイトへのリンク</a>
 										<!-- <a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>
@@ -245,7 +245,7 @@ Chris Hetherington
 									<h5 class="h5 mt-16">HanE言語交換</h5>
 									<p class="project-desc">WordPress を使用して Hanelanguage.com を構築し、使いやすいインターフェイスとカスタマイズ可能なテーマとプラグインを利用しました。 私は言語愛好家のために視覚的に魅力的でインタラクティブなウェブサイトを作りました。</p>
 									<div class="btn-groups">
-										<a href="https://hanelanguage.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Webサイトへのリンク</a>
+										<a href="https://hanelanguage.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >ウェブサイトへのリンク</a>
 										<!--<a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>
@@ -278,7 +278,7 @@ Chris Hetherington
 									<h5 class="h5 mt-16">ヘレナ·フェイシャル·タイム</h5>
 									<p class="project-desc">私はWordPressを使用してHelena Facial Timeのウェブサイトを構築し、その多用途な機能を活用しました。 清潔でエレガントなデザインで、私はHelenaのサービスを紹介し、シームレスな予約体験を提供するために使いやすいプラットフォームを作りました。</p>
 									<div class="btn-groups">
-										<a href="https://helenafacialtime.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Webサイトへのリンク</a>
+										<a href="https://helenafacialtime.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >ウェブサイトへのリンク</a>
 										<!-- <a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>
@@ -289,7 +289,7 @@ Chris Hetherington
 									<h5 class="h5 mt-16">Beauty by Sakura</h5>
 									<p class="project-desc">WordPressを使って、SakuraのサイトでBeautyを作りました。 カスタマイズ可能なテーマとプラグインの組み合わせで、私は美的に喜ばれる有益なプラットフォームをデザインし、訪問者のためのさくらの美容サービスと専門知識を強調しました。</p>
 									<div class="btn-groups">
-									<a href="https://beautybysakura.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Webサイトへのリンク</a>
+									<a href="https://beautybysakura.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >ウェブサイトへのリンク</a>
 									</div>
 								</div>
 							</div>
@@ -299,7 +299,7 @@ Chris Hetherington
 									<h5 class="h5 mt-16">杉原さくらオフィシャルサイト</h5>
 									<p class="project-desc">WordPressを使って、杉原咲良さんのサイトを作りました。 多用途なツールとテーマで、さくらの才能やスキル、ポートフォリオを効果的に紹介する視覚的に魅力的で有益なプラットフォームをデザインしました。 お姉さんの実力を見せて 目立つように</p>
 									<div class="btn-groups">
-										<a href="https://sakurasugihara.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >Webサイトへのリンク</a>
+										<a href="https://sakurasugihara.com/" target="_blank" rel="noopener noreferrer" class="btn btn-default2" >ウェブサイトへのリンク</a>
 										<!-- <a href="#" class="btn btn-default2" >Live Project</a> -->
 									</div>
 								</div>

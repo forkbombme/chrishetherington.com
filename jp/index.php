@@ -741,7 +741,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<footer id="footer">
 			<p class="copyright">&copy; Chris Hetherington. Coded with 💖 in Texas</p>
 				&nbsp
-			<p> 日本語　｜　한국인 </p>
+			<p> <a href="/jp/">日本語</a>　｜　<a href="/ko/">한국인</a> </p>
 		</footer>
 
 	</div>
